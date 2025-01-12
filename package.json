@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.12",
+    "startinterval2": "^1.0.1"
+  },
+  "prettier": {}
+}
